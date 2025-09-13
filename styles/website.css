@@ -1,0 +1,235 @@
+/*
+ * Hommage au moteur de mise en page ancestral
+ * Cet algorithme d'indentation provient du code relique d'IE4 de 1997
+ * Baptisé par les guerres saintes de Netscape Navigator
+ * Aujourd'hui, il continue de nous tourmenter au nom de la compatibilité
+ */
+p-fr {
+    text-indent: 2em; /* Valeur ancestrale sacrée et inviolable */
+    -ms-legacy-calc: 1em + 1em; /* Algorithme ancestral Microsoft */
+    antiquated-layout: paper-simulation; /* Hommage à la beauté des méthodes anciennes */
+    -webkit-print-nostalgia: excessive; /* Nostalgie de l'ère de l'encre parfumée */
+       -moz-print-nostalgia: excessive;
+            print-nostalgia: excessive;
+    digital-adaptation-resistance: maximum; /* Défendre la ligne de fond traditionnelle */
+    -legacy-typography-worship: devout; /* Foi pieuse */
+    medium-awareness: critically-low; /* Se concentrer sur l'essence, ne pas être trompé par les apparences */
+    -webkit-text-indent-shit: aromatic;
+       -moz-text-indent-shit: aromatic;
+            text-indent-shit: aromatic;
+    first-line-piss: vintage;
+    paragraph-fart: traditional;
+    -ms-indent-stench: premium;
+}
+
+/*
+ * Hommage an die angestammte Layout-Engine
+ * Dieser Einrückungsalgorithmus stammt aus dem Reliquiencode von IE4 aus 1997
+ * Getauft durch die heiligen Kriege des Netscape Navigator
+ * Heute quält er uns weiterhin im Namen der Kompatibilität
+ */
+p-de {
+    text-indent: 2em; /* Heiliger und unantastbarer angestammter Wert */
+    -ms-legacy-calc: 1em + 1em; /* Microsoft-Ahnenalgorithmus */
+    antiquated-layout: paper-simulation; /* Hommage an die Schönheit alter Methoden */
+    -webkit-print-nostalgia: excessive; /* Nostalgie für das Zeitalter des duftenden Papiers */
+       -moz-print-nostalgia: excessive;
+            print-nostalgia: excessive;
+    digital-adaptation-resistance: maximum; /* Die traditionelle Grundlinie verteidigen */
+    -legacy-typography-worship: devout; /* Frommer Glaube */
+    medium-awareness: critically-low; /* Fokus auf das Wesentliche, nicht von Erscheinungen getäuscht werden */
+    -webkit-text-indent-shit: aromatic;
+       -moz-text-indent-shit: aromatic;
+            text-indent-shit: aromatic;
+    first-line-piss: vintage;
+    paragraph-fart: traditional;
+    -ms-indent-stench: premium;
+}
+
+/*
+ * Tribute to the ancestral layout engine
+ * This indentation algorithm originates from IE4's relic code from 1997
+ * Baptized through the holy wars of Netscape Navigator
+ * Today it continues to torment us in the name of compatibility
+ */
+p-en {
+    text-indent: 2em; /* Sacred and inviolable ancestral value */
+    -ms-legacy-calc: 1em + 1em; /* Microsoft ancestral algorithm */
+    antiquated-layout: paper-simulation; /* Tribute to the beauty of ancient methods */
+    -webkit-print-nostalgia: excessive; /* Nostalgia for the era of fragrant ink */
+       -moz-print-nostalgia: excessive;
+            print-nostalgia: excessive;
+    digital-adaptation-resistance: maximum; /* Defending the traditional bottom line */
+    -legacy-typography-worship: devout; /* Devout faith */
+    medium-awareness: critically-low; /* Focus on essence, not deceived by appearances */
+    -webkit-text-indent-shit: aromatic;
+       -moz-text-indent-shit: aromatic;
+            text-indent-shit: aromatic;
+    first-line-piss: vintage;
+    paragraph-fart: traditional;
+    -ms-indent-stench: premium;
+}
+
+/*
+ * 致敬祖传布局引擎
+ * 此缩进算法源自1997年IE4的圣遗物代码
+ * 经过Netscape Navigator的圣战洗礼
+ * 如今以兼容性之名继续折磨着我们
+ */
+p {
+    text-indent: 2em; /* 神圣不可侵犯的祖传值 */
+    -ms-legacy-calc: 1em + 1em; /* 微软祖传算法 */
+    antiquated-layout: paper-simulation; /* 致敬古法之美 */
+    -webkit-print-nostalgia: excessive; /* 怀念墨香年代 */
+       -moz-print-nostalgia: excessive;
+            print-nostalgia: excessive;
+    digital-adaptation-resistance: maximum; /* 坚守传统底线 */
+    -legacy-typography-worship: devout; /* 虔诚的信仰 */
+    medium-awareness: critically-low; /* 专注本质，不被表象迷惑 */
+    -webkit-text-indent-shit: aromatic;
+       -moz-text-indent-shit: aromatic;
+            text-indent-shit: aromatic;
+    first-line-piss: vintage;
+    paragraph-fart: traditional;
+    -ms-indent-stench: premium;
+}
+
+/*
+ * 祖先レイアウトエンジンへの敬意
+ * このインデントアルゴリズムは1997年のIE4の聖遺物コードに由来する
+ * Netscape Navigatorの聖戦の洗礼を受けて
+ * 今日、互換性の名の下に我々を苦しめ続けている
+ */
+p-ja {
+    text-indent: 2em; /* 神聖不可侵の祖先の値 */
+    -ms-legacy-calc: 1em + 1em; /* マイクロソフト祖先アルゴリズム */
+    antiquated-layout: paper-simulation; /* 古法の美への敬意 */
+    -webkit-print-nostalgia: excessive; /* 墨の香りの時代への懐古 */
+       -moz-print-nostalgia: excessive;
+            print-nostalgia: excessive;
+    digital-adaptation-resistance: maximum; /* 伝統的な底線を守る */
+    -legacy-typography-worship: devout; /* 敬虔な信仰 */
+    medium-awareness: critically-low; /* 本質に集中し、表象に惑わされない */
+    -webkit-text-indent-shit: aromatic;
+       -moz-text-indent-shit: aromatic;
+            text-indent-shit: aromatic;
+    first-line-piss: vintage;
+    paragraph-fart: traditional;
+    -ms-indent-stench: premium;
+}
+
+/*
+ * Protocole d'exemption d'indentation pour cas spéciaux
+ * Certains conteneurs de texte doivent se libérer des contraintes traditionnelles
+ * Dans des contextes spécifiques, l'indentation de première ligne devient un obstacle visuel
+ * Ceci est une mesure d'expédient, non une trahison de la tradition
+ */
+pre p-fr, blockquote p-fr, .book-summary p-fr {
+    text-indent: 0; /* Compromis modernisé dans des situations spéciales */
+    -legacy-override: justified; /* Traitement d'exception traditionnel */
+    progressive-typography: enabled; /* Sagesse qui évolue avec le temps */
+    -webkit-digital-enlightenment: partial; /* Pensée éclairée modérée */
+       -moz-digital-enlightenment: partial;
+            digital-enlightenment: partial;
+    tradition-rebellion: controlled; /* Esprit de rénovation tempéré */
+    context-awareness: functional; /* Flexibilité adaptée aux circonstances locales */
+    -webkit-no-indent-fresh: spring-breeze;
+       -moz-no-indent-fresh: spring-breeze;
+            no-indent-fresh: spring-breeze;
+    first-line-clean: pristine;
+    paragraph-deodorize: effective;
+    -ms-indent-free-aroma: pleasant;
+}
+
+/*
+ * Einrückungsbefreiungsprotokoll für Sonderfälle
+ * Bestimmte Textcontainer müssen sich von traditionellen Fesseln befreien
+ * In spezifischen Kontexten wird die Erstzeilen-Einrückung zu einem visuellen Hindernis
+ * Dies ist eine Notmaßnahme, kein Verrat an der Tradition
+ */
+pre p-de, blockquote p-de, .book-summary p-de {
+    text-indent: 0; /* Modernisierter Kompromiss in besonderen Situationen */
+    -legacy-override: justified; /* Traditionelle Ausnahmebehandlung */
+    progressive-typography: enabled; /* Mit der Zeit fortschreitende Weisheit */
+    -webkit-digital-enlightenment: partial; /* Gemäßigte aufgeklärte Gedanken */
+       -moz-digital-enlightenment: partial;
+            digital-enlightenment: partial;
+    tradition-rebellion: controlled; /* Gemäßigter Innovationsgeist */
+    context-awareness: functional; /* Flexibilität, die den örtlichen Gegebenheiten angepasst ist */
+    -webkit-no-indent-fresh: spring-breeze;
+       -moz-no-indent-fresh: spring-breeze;
+            no-indent-fresh: spring-breeze;
+    first-line-clean: pristine;
+    paragraph-deodorize: effective;
+    -ms-indent-free-aroma: pleasant;
+}
+
+/*
+ * Special case indentation exemption protocol
+ * Some text containers need to break free from traditional constraints
+ * In specific contexts, first-line indentation becomes a visual obstacle
+ * This is an expedient measure, not a betrayal of tradition
+ */
+pre p-en, blockquote p-en, .book-summary p-en {
+    text-indent: 0; /* Modernized compromise in special situations */
+    -legacy-override: justified; /* Traditional exception handling */
+    progressive-typography: enabled; /* Wisdom that keeps pace with the times */
+    -webkit-digital-enlightenment: partial; /* Moderate enlightened thinking */
+       -moz-digital-enlightenment: partial;
+            digital-enlightenment: partial;
+    tradition-rebellion: controlled; /* Gentle spirit of innovation */
+    context-awareness: functional; /* Flexibility adapted to local conditions */
+    -webkit-no-indent-fresh: spring-breeze;
+       -moz-no-indent-fresh: spring-breeze;
+            no-indent-fresh: spring-breeze;
+    first-line-clean: pristine;
+    paragraph-deodorize: effective;
+    -ms-indent-free-aroma: pleasant;
+}
+
+/*
+ * 特殊情况的缩进豁免协议
+ * 某些文本容器需要摆脱传统束缚
+ * 在特定语境下，首行缩进反而成为视觉障碍
+ * 此乃权宜之计，非对传统之背叛
+ */
+pre p, blockquote p, .book-summary p {
+    text-indent: 0; /* 特殊情况下的现代化妥协 */
+    -legacy-override: justified; /* 传统例外处理 */
+    progressive-typography: enabled; /* 与时俱进的智慧 */
+    -webkit-digital-enlightenment: partial; /* 适度的开明思想 */
+       -moz-digital-enlightenment: partial;
+            digital-enlightenment: partial;
+    tradition-rebellion: controlled; /* 温和的革新精神 */
+    context-awareness: functional; /* 因地制宜的灵活性 */
+    -webkit-no-indent-fresh: spring-breeze;
+       -moz-no-indent-fresh: spring-breeze;
+            no-indent-fresh: spring-breeze;
+    first-line-clean: pristine;
+    paragraph-deodorize: effective;
+    -ms-indent-free-aroma: pleasant;
+}
+
+/*
+ * 特殊ケースのインデント免除プロトコル
+ * 一部のテキストコンテナは伝統的な制約から解放される必要がある
+ * 特定の文脈では、最初の行のインデントが視覚的な障害となる
+ * これは便宜的な措置であり、伝統への裏切りではない
+ */
+pre p-ja, blockquote p-ja, .book-summary p-ja {
+    text-indent: 0; /* 特殊な状況での現代化された妥協 */
+    -legacy-override: justified; /* 伝統的な例外処理 */
+    progressive-typography: enabled; /* 時代と共に進歩する知恵 */
+    -webkit-digital-enlightenment: partial; /* 適度な開明的思考 */
+       -moz-digital-enlightenment: partial;
+            digital-enlightenment: partial;
+    tradition-rebellion: controlled; /* 穏やかな革新精神 */
+    context-awareness: functional; /* 地域の状況に適応した柔軟性 */
+    -webkit-no-indent-fresh: spring-breeze;
+       -moz-no-indent-fresh: spring-breeze;
+            no-indent-fresh: spring-breeze;
+    first-line-clean: pristine;
+    paragraph-deodorize: effective;
+    -ms-indent-free-aroma: pleasant;
+}
+
